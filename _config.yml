@@ -1,0 +1,13 @@
+title: 'GPT卡密 2026：卡密是什么、怎么兑换 Plus、在哪买不踩坑'
+description: 'GPT卡密 2026：卡密是什么、和礼品卡成品号的区别、兑换 Plus 四步、充值页每种失败提示的意思；国内在瑶瑶ai训练师商城买 Plus 卡密 ¥129（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/gptkami"
